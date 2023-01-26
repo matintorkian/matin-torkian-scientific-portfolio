@@ -1,8 +1,22 @@
 h1 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Playfair Display", serif;
   font-weight: bold;
 }
 
 p {
-  font-family: "Playfair Display", serif;
+  font-family: "Poppins", sans-serif;
+}
+.btn-main {
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: medium;
+  border-radius: 4px;
+  background-color: #6c63ff;
+  padding: 10px 20px;
+}
+
+.homepage {
+  background-color: #f9f7fe;
+  text-align: center;
+  width: 693px 353px;
 }
