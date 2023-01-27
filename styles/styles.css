@@ -11,8 +11,18 @@ h1 {
   color: black;
 }
 
+h2 {
+  font-family: var(--heading-font);
+  font-weight: 700px;
+  font-size: 54px;
+  line-height: 85.31px;
+}
+
 p {
   font-family: var(--paragraph-font);
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 30px;
 }
 .btn-main {
   color: white;
