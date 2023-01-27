@@ -56,6 +56,10 @@ p {
   width: 300px;
   margin-left: 107px;
 }
+.img-pub {
+  width: 420px;
+  margin-left: 107px;
+}
 .btn-secondary {
   color: var(--btn-color);
   background-color: white;
