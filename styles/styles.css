@@ -34,6 +34,14 @@ p {
   line-height: 27px;
   padding: 12px 20px;
 }
+@media (max-width: 900px) {
+  h1 {
+    font-size: 70px;
+  }
+  h2 {
+    font-size: 40px;
+  }
+}
 
 .homepage {
   background-color: #f9f7fe;
