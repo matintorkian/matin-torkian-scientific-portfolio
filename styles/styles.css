@@ -30,12 +30,7 @@ p {
   font-size: 16px;
   line-height: 30px;
 }
-ul {
-  display: flex;
-  text-align: center;
-  flex-direction: column;
-  list-style-type: none;
-}
+
 a {
   text-decoration: none;
 }
@@ -112,4 +107,10 @@ a {
 .cv-section {
   padding: 0 20px;
   margin-left: 70px;
+}
+.contact {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  list-style-type: none;
 }
