@@ -17,6 +17,12 @@ h2 {
   font-size: 54px;
   line-height: 85.31px;
 }
+h3 {
+  font-family: var(--paragraph-font);
+  font-weight: 700px;
+  font-size: 40px;
+  line-height: 85.31px;
+}
 
 p {
   font-family: var(--paragraph-font);
@@ -92,4 +98,9 @@ p {
   height: 500px;
   margin-left: 107px;
   border-radius: 4px;
+}
+
+.cv-section {
+  padding: 0 20px;
+  margin-left: 70px;
 }
