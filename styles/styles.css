@@ -108,9 +108,9 @@ a {
   padding: 0 20px;
   margin-left: 70px;
 }
-.contact {
-  display: flex;
-  text-align: center;
-  flex-direction: column;
-  list-style-type: none;
+.contact p {
+  font-family: var(--paragraph-font);
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 30px;
 }
